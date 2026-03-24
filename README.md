@@ -1,21 +1,227 @@
-# 💫 About Me:
-About Me<br><br>I’m a Computer Science student focused on building practical, real-world systems. I don’t just study concepts.  I turn them into working products. My work sits at the intersection of backend development, mobile apps, and applied AI, with a strong interest in solving everyday problems through technology.<br><br>What I’m Building<br><br>Right now, I’m focused on creating products that have real use cases:<br><br>Dastarkhan – a React Native mobile app centered around food and community<br>Reviu.pk – a platform designed to bring transparency to local business reviews in Pakistan<br>AI Learning System (FYP) – a dynamic system that adapts learning using AI concepts<br><br>Alongside these, I build systems like StudyFlow and UniWork to explore productivity and student-focused solutions.<br><br>How I Work<br><br>I approach development with a product mindset:<br><br>Start with a real problem<br>Build a functional system quickly<br>Improve structure, performance, and usability over time<br><br>I prefer shipping working solutions over spending too much time on theory. Clean backend logic, practical features, and usability matter more to me than just completing projects.<br><br>What I’m Interested In<br>Building scalable backend systems using Flask and APIs<br>Developing cross-platform mobile apps with React Native<br>Applying AI in meaningful, practical ways (not just theoretical models)<br>Creating platforms that can evolve into real startups<br>Current Focus<br>Strengthening backend architecture and system design<br>Improving mobile app performance and UI/UX<br>Working with structured data using Pandas and NumPy<br>Managing databases across MySQL, SQLite, and Supabase<br>Deploying applications using Vercel, Railway, and modern tools<br>Tech Stack<br><br>Languages: Python, C++, JavaScript<br>Web: Flask, HTML, CSS, JavaScript, React<br>Mobile: React Native<br>Databases: MySQL, SQLite, Supabase<br>Data: Pandas, NumPy<br>AI/ML: Machine learning fundamentals, NLP basics<br>Deployment: Vercel, Railway, Supabase<br>Tools: Git, GitHub<br><br>What Sets Me Apart<br><br>I focus on building systems that can actually be used — not just submitted.<br>Most of my projects are designed with scalability and real users in mind.<br><br>I’m particularly interested in turning ideas into products that solve problems in local markets, especially in Pakistan, where there is still a gap between technology and everyday needs.<br><br>Looking Ahead<br><br>My goal is to grow from building projects to building products — systems that are not only functional, but impactful, scalable, and ready for real users.
+<!-- ═══════════════════════════════════════════════════════════
+     HERO — First impression. Centered anchor. Samsung Blue.
+     UX: F-pattern starts here. Name + role instantly readable.
+════════════════════════════════════════════════════════════ -->
 
+<div align="center">
 
-## 🌐 Socials:
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/hamid-saleem-097950296) [![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?logo=YouTube&logoColor=white)](https://youtube.com/@@CODEERROR) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:hamidsaleem0011@gmail.com) 
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=14,21&height=220&section=header&text=Hamid%20Saleem&fontSize=56&fontColor=ffffff&fontAlignY=52&desc=CS%20Student%20%C2%B7%20I%20make%20things%20that%20actually%20work&descSize=15&descColor=bbd0ff&descAlignY=70&animation=fadeIn" width="100%"/>
 
-# 💻 Tech Stack:
-![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white) ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white) ![PowerShell](https://img.shields.io/badge/PowerShell-%235391FE.svg?style=for-the-badge&logo=powershell&logoColor=white) ![Google Cloud](https://img.shields.io/badge/GoogleCloud-%234285F4.svg?style=for-the-badge&logo=google-cloud&logoColor=white) ![Vercel](https://img.shields.io/badge/vercel-%23000000.svg?style=for-the-badge&logo=vercel&logoColor=white) ![Netlify](https://img.shields.io/badge/netlify-%23000000.svg?style=for-the-badge&logo=netlify&logoColor=#00C7B7) ![Oracle](https://img.shields.io/badge/Oracle-F80000?style=for-the-badge&logo=oracle&logoColor=white) ![Firebase](https://img.shields.io/badge/firebase-%23039BE5.svg?style=for-the-badge&logo=firebase) ![Bootstrap](https://img.shields.io/badge/bootstrap-%238511FA.svg?style=for-the-badge&logo=bootstrap&logoColor=white) ![Chart.js](https://img.shields.io/badge/chart.js-F5788D.svg?style=for-the-badge&logo=chart.js&logoColor=white) ![Context-API](https://img.shields.io/badge/Context--Api-000000?style=for-the-badge&logo=react) ![Flask](https://img.shields.io/badge/flask-%23000.svg?style=for-the-badge&logo=flask&logoColor=white) ![Express.js](https://img.shields.io/badge/express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB) ![Expo](https://img.shields.io/badge/expo-1C1E24?style=for-the-badge&logo=expo&logoColor=#D04A37) ![Flutter](https://img.shields.io/badge/Flutter-%2302569B.svg?style=for-the-badge&logo=Flutter&logoColor=white) ![NPM](https://img.shields.io/badge/NPM-%23CB3837.svg?style=for-the-badge&logo=npm&logoColor=white) ![NestJS](https://img.shields.io/badge/nestjs-%23E0234E.svg?style=for-the-badge&logo=nestjs&logoColor=white) ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white) ![Next JS](https://img.shields.io/badge/Next-black?style=for-the-badge&logo=next.js&logoColor=white) ![React Hook Form](https://img.shields.io/badge/React%20Hook%20Form-%23EC5990.svg?style=for-the-badge&logo=reacthookform&logoColor=white) ![React Router](https://img.shields.io/badge/React_Router-CA4245?style=for-the-badge&logo=react-router&logoColor=white) ![React Native](https://img.shields.io/badge/react_native-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) ![WordPress](https://img.shields.io/badge/WordPress-%23117AC9.svg?style=for-the-badge&logo=WordPress&logoColor=white) ![Firebase](https://img.shields.io/badge/firebase-a08021?style=for-the-badge&logo=firebase&logoColor=ffcd34) ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white) ![Supabase](https://img.shields.io/badge/Supabase-3ECF8E?style=for-the-badge&logo=supabase&logoColor=white) ![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white) ![Sketch](https://img.shields.io/badge/Sketch-FFB387?style=for-the-badge&logo=sketch&logoColor=black) ![Keras](https://img.shields.io/badge/Keras-%23D00000.svg?style=for-the-badge&logo=Keras&logoColor=white) ![Matplotlib](https://img.shields.io/badge/Matplotlib-%23ffffff.svg?style=for-the-badge&logo=Matplotlib&logoColor=black) ![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white) ![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white) ![TensorFlow](https://img.shields.io/badge/TensorFlow-%23FF6F00.svg?style=for-the-badge&logo=TensorFlow&logoColor=white) ![PyTorch](https://img.shields.io/badge/PyTorch-%23EE4C2C.svg?style=for-the-badge&logo=PyTorch&logoColor=white) ![scikit-learn](https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=for-the-badge&logo=scikit-learn&logoColor=white) ![Scipy](https://img.shields.io/badge/SciPy-%230C55A5.svg?style=for-the-badge&logo=scipy&logoColor=%white) ![Plotly](https://img.shields.io/badge/Plotly-%233F4F75.svg?style=for-the-badge&logo=plotly&logoColor=white) ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white) ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white) ![Playwright](https://img.shields.io/badge/-playwright-%232EAD33?style=for-the-badge&logo=playwright&logoColor=white) ![Selenium](https://img.shields.io/badge/-selenium-%43B02A?style=for-the-badge&logo=selenium&logoColor=white) ![Notion](https://img.shields.io/badge/Notion-%23000000.svg?style=for-the-badge&logo=notion&logoColor=white) ![Portfolio](https://img.shields.io/badge/Portfolio-%23000000.svg?style=for-the-badge&logo=firefox&logoColor=#FF7139) ![TOR](https://img.shields.io/badge/tor-%237E4798.svg?style=for-the-badge&logo=tor-project&logoColor=white) ![nVIDIA](https://img.shields.io/badge/nVIDIA-%2376B900.svg?style=for-the-badge&logo=nVIDIA&logoColor=white) ![Steam](https://img.shields.io/badge/steam-%23000000.svg?style=for-the-badge&logo=steam&logoColor=white)
-# 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=hamidr0011&theme=dark&hide_border=false&include_all_commits=true&count_private=false)<br/>
-![](https://nirzak-streak-stats.vercel.app/?user=hamidr0011&theme=dark&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=hamidr0011&theme=dark&hide_border=false&include_all_commits=true&count_private=false&layout=compact)
+<!-- ── Animated role line — Motion principle: one key animation, not many -->
+<a href="https://git.io/typing-svg">
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=15&pause=1200&color=1428A0&center=true&vCenter=true&width=520&lines=Backend+Architecture+%26+System+Design;React+Native+Mobile+Applications;Applied+AI+for+Real-World+Problems;Building+products+for+Pakistan's+market" alt="Typing SVG" />
+</a>
 
-## 🏆 GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=hamidr0011&theme=radical&no-frame=false&no-bg=false&margin-w=4)
+<br/><br/>
 
----
-[![](https://visitcount.itsvg.in/api?id=hamidr0011&icon=0&color=0)](https://visitcount.itsvg.in)
+<!-- ── Social — Gestalt: Proximity. Same style, same color, grouped. -->
+<a href="https://linkedin.com/in/hamid-saleem-097950296">
+  <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white"/>
+</a>
+&ensp;
+<a href="https://youtube.com/@CODEERROR">
+  <img src="https://img.shields.io/badge/YouTube-FF0000?style=flat-square&logo=youtube&logoColor=white"/>
+</a>
+&ensp;
+<a href="mailto:hamidsaleem0011@gmail.com">
+  <img src="https://img.shields.io/badge/Gmail-EA4335?style=flat-square&logo=gmail&logoColor=white"/>
+</a>
+&ensp;
+<a href="https://github.com/hamidr0011">
+  <img src="https://img.shields.io/badge/GitHub-161b22?style=flat-square&logo=github&logoColor=white"/>
+</a>
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+<br/><br/>
+
+![Profile Views](https://komarev.com/ghpvc/?username=hamidr0011&style=flat-square&color=1428A0&label=Profile+Views)
+&ensp;
+![Open to Collaborate](https://img.shields.io/badge/Open%20to-Collaborate-1428A0?style=flat-square)
+
+</div>
+
+<br/>
+
+<!-- ═══════════════════════════════════════════════════════════
+     ABOUT — UX: Progressive disclosure. Short, punchy, scannable.
+     No walls of text. Hick's Law: fewer words = faster comprehension.
+════════════════════════════════════════════════════════════ -->
+
+## `$ whoami`
+
+I'm Hamid — a CS student who gets restless when things aren't being built.
+
+Most of my time goes into **backend systems**, **mobile apps**, and finding places where **AI can actually be useful** rather than just impressive. I'm less interested in finishing assignments and more interested in finishing something someone could actually open on their phone. A lot of what I build is pointed at problems I see around me in Pakistan — places where decent software just doesn't exist yet.
+
+```
+how I work  →  find something broken or missing
+            →  get a working version out fast
+            →  make it better until it's something real
+```
+
+<br/>
+
+<!-- ═══════════════════════════════════════════════════════════
+     PROJECTS — UX: Card pattern. Gestalt similarity + proximity.
+     Equal-width columns. Scannable titles. No walls of text.
+════════════════════════════════════════════════════════════ -->
+
+## What I'm working on
+
+<table width="100%">
+<tr>
+
+<td width="33%" valign="top" align="center">
+
+<br/>
+
+**🍽 Dastarkhan**
+
+`React Native` &nbsp;·&nbsp; `Supabase` &nbsp;·&nbsp; `Expo`
+
+A mobile app about food and community. Built for people here — not a copy of something that already exists somewhere else.
+
+<br/>
+
+</td>
+
+<td width="33%" valign="top" align="center">
+
+<br/>
+
+**⭐ Reviu.pk**
+
+`Flask` &nbsp;·&nbsp; `PostgreSQL` &nbsp;·&nbsp; `Railway`
+
+Local business reviews in Pakistan with no agenda behind them. Honest opinions, actual ratings — nothing paid for.
+
+<br/>
+
+</td>
+
+<td width="33%" valign="top" align="center">
+
+<br/>
+
+**🧠 AI Learning System**
+
+`Python` &nbsp;·&nbsp; `NLP` &nbsp;·&nbsp; `ML`
+
+My final year project. An adaptive learning system that figures out how you learn and adjusts — instead of giving everyone the same thing.
+
+<br/>
+
+</td>
+
+</tr>
+</table>
+
+<br/>
+
+<!-- ═══════════════════════════════════════════════════════════
+     TECH STACK — UX: Icons over badge soup. Skill-icons give
+     visual weight and are immediately recognizable.
+     Miller's Law: grouped into chunks of ≤7.
+════════════════════════════════════════════════════════════ -->
+
+## Tech Stack
+
+<div align="center">
+
+<br/>
+
+**Languages &nbsp;&mdash;&nbsp; day to day**
+
+<br/>
+
+[![Skills](https://skillicons.dev/icons?i=py,cpp,js,ts,java&theme=dark)](https://skillicons.dev)
+
+<br/><br/>
+
+**Web & Mobile &nbsp;&mdash;&nbsp; where most of my work lives**
+
+<br/>
+
+[![Skills](https://skillicons.dev/icons?i=react,nextjs,flask,nodejs,express,tailwind&theme=dark)](https://skillicons.dev)
+&nbsp;
+[![Skills](https://skillicons.dev/icons?i=html,css,bootstrap,expo&theme=dark)](https://skillicons.dev)
+
+<br/><br/>
+
+**Data & AI &nbsp;&mdash;&nbsp; still learning, actively using**
+
+<br/>
+
+[![Skills](https://skillicons.dev/icons?i=tensorflow,pytorch&theme=dark)](https://skillicons.dev)
+
+<br/><br/>
+
+**Databases & Infra &nbsp;&mdash;&nbsp; how I store and ship things**
+
+<br/>
+
+[![Skills](https://skillicons.dev/icons?i=supabase,postgres,mysql,firebase&theme=dark)](https://skillicons.dev)
+&nbsp;
+[![Skills](https://skillicons.dev/icons?i=vercel,git,github&theme=dark)](https://skillicons.dev)
+
+<br/>
+
+</div>
+
+<br/>
+
+<!-- ═══════════════════════════════════════════════════════════
+     STATS — UX: Side-by-side uses horizontal space efficiently.
+     Dark cards for contrast. Consistent Samsung Blue accent.
+     Streak below: past → present → future narrative.
+════════════════════════════════════════════════════════════ -->
+
+## GitHub Stats
+
+<div align="center">
+
+<br/>
+
+<img height="170"
+  src="https://github-readme-stats.vercel.app/api?username=hamidr0011&show_icons=true&hide_border=true&theme=github_dark&bg_color=0d1117&title_color=1428A0&icon_color=1428A0&text_color=8b949e&include_all_commits=true&custom_title=Activity"
+/>
+&nbsp;
+<img height="170"
+  src="https://github-readme-stats.vercel.app/api/top-langs/?username=hamidr0011&layout=compact&hide_border=true&theme=github_dark&bg_color=0d1117&title_color=1428A0&text_color=8b949e&custom_title=Languages"
+/>
+
+<br/><br/>
+
+<img width="65%"
+  src="https://nirzak-streak-stats.vercel.app/?user=hamidr0011&hide_border=true&theme=github-dark-blue&background=0d1117&ring=1428A0&fire=1428A0&currStreakLabel=1428A0&sideLabels=8b949e&dates=8b949e&sideNums=ffffff&currStreakNum=ffffff"
+/>
+
+<br/>
+
+</div>
+
+<br/>
+
+<!-- ═══════════════════════════════════════════════════════════
+     FOCUS — UX: Forward-looking context. Short. Scannable.
+════════════════════════════════════════════════════════════ -->
+
+## Right now I'm focused on
+
+```
+→  getting better at backend architecture and how systems scale
+→  making React Native feel as smooth as native apps
+→  working with Pandas and NumPy for real data problems
+→  actually shipping to Vercel, Railway, Supabase — not just localhost
+```
+
+<br/>
+
+<!-- ═══════════════════════════════════════════════════════════
+     FOOTER — Closure. Mirrors the header wave. Design rhythm.
+════════════════════════════════════════════════════════════ -->
+
+<div align="center">
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=14,21&height=120&section=footer" width="100%"/>
+
+</div>
