@@ -34,8 +34,6 @@
 <a href="mailto:hamidsaleem0011@gmail.com">
   <img src="https://img.shields.io/badge/Email-333333?style=flat-square&logo=gmail&logoColor=white"/>
 </a>
-&nbsp;
-<img src="https://komarev.com/ghpvc/?username=hamidr0011&style=flat-square&color=555555&label=views"/>
 
 </div>
 
