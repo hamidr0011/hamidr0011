@@ -1,18 +1,3 @@
-<!--
-  HCI PRINCIPLES APPLIED
-  ────────────────────────────────────────────────────────────
-  Visual Hierarchy      → Name largest, role smaller, body smallest
-  F-Pattern             → User scans left-to-right, top-to-bottom
-  Gestalt: Proximity    → Grouped items share a visual container (---)
-  Gestalt: Similarity   → Every project block uses identical structure
-  Miller's Law          → Max 5–6 icons per skill row, no walls
-  Progressive Disclosure→ Hero → About → Projects → Skills → Stats → Focus
-  Minimalism            → SVGs replace noisy system emoji, no decoration
-  Recognition > Recall  → Icons + labels always paired, never icons alone
-  Consistency           → Same font weight, same badge style throughout
-  Affordance            → Links look like links, badges look like badges
-  Cognitive Load        → One idea per section, clear entry points
--->
 
 <div align="center">
 
